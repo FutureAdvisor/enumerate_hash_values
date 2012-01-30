@@ -1,6 +1,6 @@
 = enumerate_hash_values
 
-Defines higher-order functions available in `Enumerable` that work over a `Hash`'s values and return a `Hash`.
+Defines higher-order functions available in +Enumerable+ that work over a +Hash+'s values and return a +Hash+.
 
-Author::  Clyde Law (mailto:clyde@futureadvisor.com)
+Author::  Clyde Law (mailto:claw@alum.mit.edu)
 License:: Released under the MIT license
