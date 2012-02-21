@@ -1,4 +1,4 @@
-class Hash
+class Hash # :nodoc:
 
   # Define values and values_with_keys versions of each method.
   {
