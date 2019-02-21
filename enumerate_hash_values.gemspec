@@ -5,9 +5,9 @@ require "enumerate_hash_values/version"
 Gem::Specification.new do |s|
   s.name        = "enumerate_hash_values"
   s.version     = EnumerateHashValues::VERSION
-  s.authors     = ["Clyde Law"]
-  s.email       = ["claw@alum.mit.edu"]
-  s.homepage    = %q{http://github.com/Umofomia/enumerate_hash_values}
+  s.authors     = ["FutureAdvisor"]
+  s.email       = ["core.platform@futureadvisor.com"]
+  s.homepage    = %q{http://github.com/FutureAdvisor/enumerate_hash_values}
   s.summary     = %q{Defines higher-order functions available in Enumerable that work over a Hash's values and return a Hash.}
   s.description = %q{Defines higher-order functions available in Enumerable that work over a Hash's values and return a Hash.}
   s.license     = 'MIT'
